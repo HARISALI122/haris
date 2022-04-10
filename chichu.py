@@ -132,7 +132,7 @@ def reg():
       print("\x1b[37;1mYour Token :\033[1;92m "+id)
       print('')
       print("\x1b[1;97mCopy Token and Press Enter")
-      os.system('xdg-open https://wa.me/+923180416468')
+      os.system('xdg-open https://wa.me/+923096092417')
       time.sleep(1)
       sys.exit()
   except:

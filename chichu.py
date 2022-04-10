@@ -114,7 +114,7 @@ def logo():
  => Version :  unknown
  -------------------------------------------""")
 
-def reg():
+def main():
   os.system('clear')
   logo()
   print('')
@@ -385,4 +385,4 @@ class __bsn__:
 
 
 if __name__ == '__main__':
-    reg()
+    main()
